@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### Table of Contents
 
-You can use the [editor on GitHub](https://github.com/idjuven/Stacksurvry2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation <a name="installation"></a>
 
-### Markdown
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Motivation<a name="motivation"></a>
 
-```markdown
-Syntax highlighted code block
+For this project, I was interestested in using Stack Overflow data from 2020 to better understand:
 
-# Header 1
-## Header 2
-### Header 3
+1. What are the most favorite programming languages for the developers and what do they recommend for the future? 
+2.	Is there any relationship between Age and salary? Is there any relationship between weekly working hours and salary?
+3. Can we build a machine learning model to predict the salary?
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## File Descriptions <a name="files"></a>
 
-[Link](url) and ![Image](src)
-```
+There is 1 notebooks available here to showcase work related to the above questions. 
+There is a word document for the blog I wrote. I do not want to publish it publicly, instead, I want to publish it privately. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Results<a name="results"></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idjuven/Stacksurvry2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+There is a word document for the blog I wrote. I do not want to publish it publicly, instead, I want to publish it privately. 
 
-### Support or Contact
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
